@@ -13,6 +13,8 @@ def loop_message_n_times (string, integer)
 end
 
 def output_array (array)
-  names.each do
+  names.each do (element)
+  puts element
+end
 end
 
